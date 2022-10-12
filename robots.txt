@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adi-pey.github.io/web/sitemap.xml

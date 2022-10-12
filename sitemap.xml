@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://adi-pey.github.io/web/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://adi-pey.github.io/web/</loc>
+</url>
+<url>
+<loc>https://adi-pey.github.io/web/meet-the-team.html</loc>
+<lastmod>2022-10-12T10:42:03-07:00</lastmod>
+<image:image>
+<image:loc>https://adi-pey.github.io/web/media/posts/2/austin-distel-744oGeqpxPQ-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://adi-pey.github.io/web/media/posts/2/caleb-perez-a6h5e59r15o-unsplash.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://adi-pey.github.io/web/media/posts/2/telephone.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://adi-pey.github.io/web/welcome-to-storytelling.html</loc>
+<lastmod>2022-10-12T10:22:04-07:00</lastmod>
+</url>
+</urlset>

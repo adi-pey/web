@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Digital Storytelling</title>
+    <link href="https://adi-pey.github.io/web/feed.xml" rel="self" />
+    <link href="https://adi-pey.github.io/web" />
+    <updated>2022-10-12T10:42:03-07:00</updated>
+    <author>
+        <name>AP</name>
+    </author>
+    <id>https://adi-pey.github.io/web</id>
+
+    <entry>
+        <title>Meet the Team</title>
+        <author>
+            <name>AP</name>
+        </author>
+        <link href="https://adi-pey.github.io/web/meet-the-team.html"/>
+        <id>https://adi-pey.github.io/web/meet-the-team.html</id>
+
+        <updated>2022-10-12T10:42:03-07:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://adi-pey.github.io/web/media/posts/2/austin-distel-744oGeqpxPQ-unsplash.jpg" alt="" />
+                    Maura MPP does things also does things
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://adi-pey.github.io/web/media/posts/2/austin-distel-744oGeqpxPQ-unsplash.jpg" alt="" />
+                <h2>Maura </h2>
+<h3>MPP</h3>
+<h3><figure class="post__image"><img loading="lazy"  src="https://adi-pey.github.io/web/media/posts/2/caleb-perez-a6h5e59r15o-unsplash.jpg" sizes="100vw" srcset="https://adi-pey.github.io/web/media/posts/2/responsive/caleb-perez-a6h5e59r15o-unsplash-xs.jpg 300w ,https://adi-pey.github.io/web/media/posts/2/responsive/caleb-perez-a6h5e59r15o-unsplash-sm.jpg 480w ,https://adi-pey.github.io/web/media/posts/2/responsive/caleb-perez-a6h5e59r15o-unsplash-md.jpg 768w ,https://adi-pey.github.io/web/media/posts/2/responsive/caleb-perez-a6h5e59r15o-unsplash-lg.jpg 1024w ,https://adi-pey.github.io/web/media/posts/2/responsive/caleb-perez-a6h5e59r15o-unsplash-xl.jpg 1360w ,https://adi-pey.github.io/web/media/posts/2/responsive/caleb-perez-a6h5e59r15o-unsplash-2xl.jpg 1600w"  alt="" width="515" height="344"></figure></h3>
+<p>does things</p>
+<h2>Aditi </h2>
+<h3>MPP</h3>
+<h3><figure class="post__image"><img loading="lazy"  src="https://adi-pey.github.io/web/media/posts/2/telephone.jpg" sizes="100vw" srcset="https://adi-pey.github.io/web/media/posts/2/responsive/telephone-xs.jpg 300w ,https://adi-pey.github.io/web/media/posts/2/responsive/telephone-sm.jpg 480w ,https://adi-pey.github.io/web/media/posts/2/responsive/telephone-md.jpg 768w ,https://adi-pey.github.io/web/media/posts/2/responsive/telephone-lg.jpg 1024w ,https://adi-pey.github.io/web/media/posts/2/responsive/telephone-xl.jpg 1360w ,https://adi-pey.github.io/web/media/posts/2/responsive/telephone-2xl.jpg 1600w"  alt="" width="330" height="306"></figure></h3>
+<p>also does things</p>
+<p> </p>
+<h3> </h3>
+            ]]>
+        </content>
+    </entry>
+</feed>
